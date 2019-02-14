@@ -5,10 +5,7 @@ This is a mavenized springboot Rest Api Application.
 ------------------------------------------------------------
 Contains the follow modules
 ------------------------------------------------------------
-ferry-scanner 
-model  
-services  
-web  
+ferry-scanner, model, services, web  
 ------------------------------------------------------------
 
 Run
