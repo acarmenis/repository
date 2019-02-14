@@ -5,10 +5,13 @@ This is a mavenized springboot Rest Api Application.
 ------------------------------------------------------------
 Contains the follow modules
 ------------------------------------------------------------
-ferry-scanner ...................................... SUCCESS 
-model .............................................. SUCCESS
-services ........................................... SUCCESS
-web ................................................ SUCCESS
+ferry-scanner 
+model  
+services  
+web  
+------------------------------------------------------------
+
+Run
 ------------------------------------------------------------
 Please, do the follow to run the application
 Import to IDE i.e. IntelliJ
