@@ -34,3 +34,26 @@ Testing
   The API consumer can be an integration test producing sufficient output, a Postman6 collection or even a simple web page.
 For testing the app, please use the Postman Api (https://www.getpostman.com/)
 i.e.  http://localhost:8080/weather/country/US, where US would be any valid ISO 3166-1 alpha-2 country code.
+Type: Basic Auth
+Username: jerome
+Password: jerome123
+
+Sample of Output:
+----------------------------------------------------------------------
+{
+    "countryCode": "US",
+    "stationNameTemperatures": [
+        {
+            "stationName": "GARRETT CO",
+            "temperature": "3"
+        },
+        {
+            "stationName": "DRIGGS REED MEM",
+            "temperature": "1"
+        },
+        {
+            "stationName": "ROANOKE RAPIDS",
+            "temperature": "14"
+        }.....
+ }
+
